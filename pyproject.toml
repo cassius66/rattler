@@ -1,7 +1,7 @@
 [project]
 name = "rattler"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple Python Nostr relay"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
